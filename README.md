@@ -14,3 +14,4 @@ $ pip install pygame
  * Jeśli twój poziom żyć osiągnie 0 lub dotrzesz do 6 poziomu, możesz opuścić grę naciskając ESC.
 
 # Diagram klas
+![Diagram klas](https://github.com/MatjuJ/ProjektPO/assets/118365072/60599e59-e2ab-4e8d-9eb3-be2d7fd85746)
