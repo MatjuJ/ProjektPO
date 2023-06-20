@@ -1,6 +1,6 @@
 # Brick Breaker
 
- Witam w grze pod tytułem "Brick Breaker". Jest to prosta gra, gdzie po prostu rozbijamy cegiełki. 
+ Witam w grze pod tytułem "Brick Breaker". Jest to prosta gra, gdzie po prostu rozbijamy cegiełki i zbieramy punkty.
 
 # Wymagania 
  Ta gra wymaga python 3.7 lub wyżej oraz zainstalowania pythonowej biblioteki pygame.
